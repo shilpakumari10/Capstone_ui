@@ -1,0 +1,6 @@
+export const HANDLE_LOGIN = 'HANDLE_LOGIN';
+export const SET_LOGIN_DATA = 'SET_LOGIN_DATA';
+export const SET_STEP_DATA = 'SET_STEP_DATA';
+export const SET_CAR_DATA = 'SET_CAR_DATA';
+export const GET_USER_VEHICLES = 'GET_USER_VEHICLES';
+export const CLEAR_LOGIN_DATA = "CLEAR_LOGIN_DATA";
